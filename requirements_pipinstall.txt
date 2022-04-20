@@ -1,0 +1,7 @@
+pip install ipython numpy matplotlib genealogy
+pip install numpy matplotlib tensorflow
+pip install transformers
+pip install datasets
+pip install transformers[sentencepiece]
+pip install ipython jupyter
+pip install torch
